@@ -1,4 +1,4 @@
-# TRY IT!
+# Try it!
 
 https://angelalorenzo.github.io/piano/
 
