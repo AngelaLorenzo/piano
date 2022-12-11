@@ -1,4 +1,4 @@
-# Prueba el proyecto
+# TRY IT!
 
 https://angelalorenzo.github.io/piano/
 
